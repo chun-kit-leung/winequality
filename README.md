@@ -1,7 +1,7 @@
 # winequality
 
 
-Data source : https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009 The data set are related to red and white variants of the Portuguese “Vinho Verde” wine. Input variables (based on physicochemical tests):
+Data source : https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009 The data set are related to red and white variants of the Portuguese “Vinho Verde” wine. Input variables (based on physicochemical tests): /n
 1 - fixed acidity
 2 - volatile acidity 3 - citric acid
 4 - residual sugar 5 - chlorides
